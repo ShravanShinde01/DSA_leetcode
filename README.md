@@ -12,6 +12,7 @@
 | [0053-maximum-subarray](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,4 +67,16 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [2206-divide-array-into-equal-pairs](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/2206-divide-array-into-equal-pairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2206-divide-array-into-equal-pairs](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/2206-divide-array-into-equal-pairs) |
+## Counting
+|  |
+| ------- |
+| [2206-divide-array-into-equal-pairs](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
