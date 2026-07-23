@@ -13,6 +13,7 @@
 | [0088-merge-sorted-array](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0704-binary-search](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0704-binary-search) |
 | [2206-divide-array-into-equal-pairs](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Dynamic Programming
 |  |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0704-binary-search](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
