@@ -49,6 +49,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0050-powx-n) |
 ## Recursion
 |  |
