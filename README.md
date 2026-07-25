@@ -52,6 +52,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0050-powx-n) |
+| [3536-maximum-product-of-two-digits](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
