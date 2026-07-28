@@ -14,6 +14,7 @@
 | [0088-merge-sorted-array](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0704-binary-search) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -64,6 +65,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0217-contains-duplicate) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
@@ -84,6 +86,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0217-contains-duplicate) |
 | [2206-divide-array-into-equal-pairs](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Bit Manipulation
 |  |
