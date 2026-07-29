@@ -32,6 +32,7 @@
 | [0027-remove-element](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
@@ -97,4 +98,8 @@
 |  |
 | ------- |
 | [2206-divide-array-into-equal-pairs](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/2206-divide-array-into-equal-pairs) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
