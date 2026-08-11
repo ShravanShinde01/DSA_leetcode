@@ -21,6 +21,7 @@
 | [0704-binary-search](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0704-binary-search) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0217-contains-duplicate) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
@@ -95,6 +97,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0217-contains-duplicate) |
 | [2206-divide-array-into-equal-pairs](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
