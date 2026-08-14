@@ -68,6 +68,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0050-powx-n) |
 ## Sorting
 |  |
@@ -114,4 +115,8 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0344-reverse-string) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
