@@ -22,6 +22,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 | [0136-single-number](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0191-number-of-1-bits) |
 | [2206-divide-array-into-equal-pairs](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/2206-divide-array-into-equal-pairs) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Counting
 |  |
 | ------- |
