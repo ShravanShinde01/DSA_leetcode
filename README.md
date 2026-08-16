@@ -20,6 +20,7 @@
 | [0283-move-zeroes](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0704-binary-search) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2029-stone-game-ix](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/2029-stone-game-ix) |
 | [2206-divide-array-into-equal-pairs](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0011-container-with-most-water) |
+| [2029-stone-game-ix](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/2029-stone-game-ix) |
 ## Stack
 |  |
 | ------- |
@@ -65,6 +67,7 @@
 | [0009-palindrome-number](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0066-plus-one) |
+| [2029-stone-game-ix](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/2029-stone-game-ix) |
 | [3536-maximum-product-of-two-digits](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
@@ -111,6 +114,7 @@
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/2029-stone-game-ix) |
 | [2206-divide-array-into-equal-pairs](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 ## String
 |  |
@@ -121,4 +125,20 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
