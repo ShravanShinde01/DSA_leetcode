@@ -50,6 +50,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -121,6 +122,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0344-reverse-string) |
 ## Linked List
@@ -143,4 +145,8 @@
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/2029-stone-game-ix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
