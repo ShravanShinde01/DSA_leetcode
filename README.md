@@ -71,6 +71,7 @@
 | [0009-palindrome-number](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0067-add-binary) |
 | [2029-stone-game-ix](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/2029-stone-game-ix) |
 | [3536-maximum-product-of-two-digits](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
@@ -113,6 +114,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0191-number-of-1-bits) |
 | [2206-divide-array-into-equal-pairs](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -128,6 +130,7 @@
 | [0014-longest-common-prefix](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0344-reverse-string) |
 ## Linked List
@@ -159,4 +162,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ShravanShinde01/DSA_leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
